@@ -22,6 +22,7 @@ Projects
 •	Risk, Uncertainty, and Probability Distribution.
 
 •	Correlation.
+
 •	Clustering.
 
 •	Linear Regression.
@@ -45,3 +46,13 @@ Projects
 •	Interpretability and Causality in Models.
 
 •	Data, Models, and Decisions.
+
+Education
+•	Master of Science in Data Science
+o	University of XYZ: Lewis University, Romeo Ville, Chicago Illinois, 2021
+
+•	Bachelor of Science in Biology, Microbiology
+o	University of IBN, Morocco, 2000.
+Certifications
+
+• Professional Data Science and Analytics Certificate from Massachusetts Institute of Technology (MIT).

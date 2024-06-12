@@ -1,4 +1,4 @@
-Introduction.
+# Introduction.
 
 Probability distributions are employed in predictive and prescriptive models to model uncertainty and inform decision-making by capturing each possible value's relative likelihood or frequency within a given range.
 
@@ -10,7 +10,7 @@ The two main types to create probability distributions:
 Employing these distributions in models helps capture the underlying uncertainty and variability in data, allowing for more informed and reliable decision-making.
 
 
-Scenario:
+# Scenario:
 
 Consider a construction manager who oversees a team of workers. The daily workload includes managing tasks for 20 workers per day. Unfortunately, due to absenteeism, about 20% of workers fail to show up for work, leading to project delays and increased costs for the construction company.
 

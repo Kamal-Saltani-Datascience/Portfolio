@@ -1,7 +1,7 @@
 ## Kamal Saltani’s Data Science Portfolio
 
 
-#Contact Information
+# Contact Information
 
 •	Email:  
 •	LinkedIn:  

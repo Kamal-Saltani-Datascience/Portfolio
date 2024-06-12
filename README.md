@@ -55,9 +55,10 @@ Education
 
 •	Bachelor of Science in Biology, Microbiology
 
-     -  University of IBN, Morocco, 2000.
+     -  IBN University, Morocco, 2000.
 
 Certifications
 
 • Professional Certificate in Data Science and Analytics
+
      -  Massachusetts Institute of Technology (MIT)

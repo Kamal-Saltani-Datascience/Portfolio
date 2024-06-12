@@ -48,6 +48,7 @@ Projects
 •	Data, Models, and Decisions.
 
 Education
+
 •	Master of Science in Data Science
 o	University of XYZ: Lewis University, Romeo Ville, Chicago Illinois, 2021
 

@@ -51,7 +51,7 @@ Education
 
 •	Master in Data Science
 
-     -  University: Lewis University, Romeo Ville, Chicago Illinois, 2021
+     -  University: Lewis University, Romeo Ville, Chicago, Illinois, 2021
 
 •	Bachelor of Science in Biology, Microbiology
 
@@ -61,4 +61,4 @@ Certifications
 
 • Professional Certificate in Data Science and Analytics
 
-     -  Massachusetts Institute of Technology (MIT)
+     -  Massachusetts Institute of Technology (MIT). May 2024.

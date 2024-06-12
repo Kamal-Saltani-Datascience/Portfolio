@@ -1,4 +1,4 @@
-##Kamal Saltani’s Data Science Portfolio
+## Kamal Saltani’s Data Science Portfolio
 
 
 #Contact Information
@@ -7,7 +7,7 @@
 •	LinkedIn:  
 
 
-#About Me
+# About Me
 
 I am a passionate data scientist with experience in machine learning, data analysis, and visualization. I specialize in using Python libraries such as numpy, pandas, matplotlib, and scikit-learn, and I am keenly interested in deep learning with TensorFlow and Keras. My projects reflect my ability to solve real-world problems using data-driven approaches.
 Skills
@@ -19,7 +19,7 @@ Skills
 •	Deep Learning: Neural networks, CNNs, RNNs, transfer learning, model optimization
 •	NLP: Text vectorization, sentiment analysis, intent classification, word embeddings
 
-#Projects
+# Projects
  
 •	Risk, Uncertainty, and Probability Distribution.
 
@@ -49,7 +49,7 @@ Skills
 
 •	Data, Models, and Decisions.
 
-#Education
+# Education
 
 •	Master in Data Science
 
@@ -59,7 +59,7 @@ Skills
  
   - IBN University, Morocco, 2000.
 
-#Certifications
+# Certifications
 
 • Professional Certificate in Data Science and Analytics
 

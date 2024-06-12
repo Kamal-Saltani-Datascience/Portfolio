@@ -20,4 +20,6 @@ Objective:
 
 - Use Python to intuitively calculate how many workers the construction manager should schedule to ensure that, on average, 20 workers are available daily.
 
- 
+- Find the cumulative density function to statistically calculate how many workers (in percent) will the manager schedule d if we use the linear calculations from the first step to schedule workers.
+
+- use the binomial ppf() function to what is the number of workers the manager should shedule if he wants to limit the risk of having more than 20 workers per day to 5%. 

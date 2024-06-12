@@ -3,7 +3,6 @@ Contact Information
 
 •	Email:  
 •	LinkedIn:  
-•	Website/Blog: johndoe.com
 
 
 About Me

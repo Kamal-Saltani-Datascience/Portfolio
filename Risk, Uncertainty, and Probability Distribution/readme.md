@@ -16,8 +16,8 @@ Consider a construction manager who oversees a team of workers. The daily worklo
 
 Objective:  
 
--     Find the ideal number of workers the manager should schedule daily to ensure the project stays on track, assuming only 80% of the planned workers show up.
+- Find the ideal number of workers the manager should schedule daily to ensure the project stays on track, assuming only 80% of the planned workers show up.
 
--     Use Python to intuitively calculate how many workers the construction manager should schedule to ensure that, on average, 20 workers are available daily.
+- Use Python to intuitively calculate how many workers the construction manager should schedule to ensure that, on average, 20 workers are available daily.
 
  

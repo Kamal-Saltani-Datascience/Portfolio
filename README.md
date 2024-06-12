@@ -51,11 +51,11 @@ Education
 
 •	Master in Data Science
 
-  o	  University of XYZ: Lewis University, Romeo Ville, Chicago Illinois, 2021
+     -  University of XYZ: Lewis University, Romeo Ville, Chicago Illinois, 2021
 
 •	Bachelor of Science in Biology, Microbiology
 
-  o	  University of IBN, Morocco, 2000.
+     -  University of IBN, Morocco, 2000.
 
 Certifications
 

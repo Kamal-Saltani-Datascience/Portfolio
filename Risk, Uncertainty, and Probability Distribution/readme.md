@@ -65,6 +65,4 @@ Consider a construction manager who oversees a team of workers. The daily worklo
 
 * Results are shown on Code_1.py
 ## Example_2:  Applying ECDF
-Create a non-normally distributed dataset by combining two normal distributions to form a bimodal distribution and then calculate and plot the Empirical Cumulative Distribution Function (ECDF)
-
-* Results are shown on code_2.py
+Create a non-normally distributed dataset by combining two normal distributions to form a bimodal distribution. After generating the dataset, calculate and plot the Empirical Cumulative Distribution Function (ECDF). This process involves merging data points from two distinct normal distributions, ensuring that the resulting dataset exhibits two peaks characteristic of a bimodal distribution. Subsequently, the ECDF will be used to visualize the cumulative probabilities associated with the dataset, providing a comprehensive view of its distributional properties. Additionally, calculate the statistics of the ECDF to find new probability values, which will help in understanding the distribution's behavior and in making informed decisions based on the dataset* Results are shown on code_2.py

@@ -1,6 +1,6 @@
-Correlation, Covariance, and Analytics in Decision Making
+# Correlation, Covariance, and Analytics in Decision Making
 
-Introduction
+## Introduction
 
 Applying correlation and covariance in probability distributions can help assess risk, optimize operations, and enhance predictive models. Both concepts quantify the relationship between data variables, allowing for the alteration, addition, or selection of variables for predictive modeling. In businesses, these measures enable more informed decisions, reduce uncertainties, and improve overall efficiency. For instance, understanding the correlation between assets in finance can lead to better portfolio diversification and risk management. It can result in more efficient resource allocation and demand forecasting in operations. Furthermore, in machine learning, recognizing these relationships aids feature selection and improves model accuracy.
 

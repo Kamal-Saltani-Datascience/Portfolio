@@ -55,6 +55,7 @@ The Empirical Cumulative Distribution Function (ECDF) is a data-driven estimator
 - Comparison: The ECDF can be compared with theoretical CDFs to assess goodness-of-fit. By comparing the ECDF to a theoretical CDF, one can evaluate how well a chosen theoretical distribution matches the observed data. This is often done using statistical tests such as the Kolmogorov-Smirnov test.
 
 The ECDF is particularly valuable in contexts where the underlying distribution is unknown or complex, providing a flexible and intuitive approach to understanding the distributional properties of a sample.
+# Python Examples.
 ## Example_1: applying Probability Distribution Function on discrete random variables (normal distribution)
 Consider a construction manager who oversees a team of workers. The daily workload includes managing tasks for 20 workers per day. Unfortunately, due to absenteeism, about 20% of workers fail to show up for work, leading to project delays and increased costs for the construction company.
 ### Objective:

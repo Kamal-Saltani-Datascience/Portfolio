@@ -1,4 +1,3 @@
- Certainly! Here is the formatted version of the document for GitHub:
 
 # Correlation, Covariance, and Analytics in Decision Making
 
